@@ -14,3 +14,9 @@ To use this application, you need to insert:
 - Owner name and app name in URI `client.BaseAddress = new Uri("https://api.appcenter.ms/v0.1/apps/OWNER_NAME/APP_NAME/");`
 
 After starting the application, information about branches and just created builds will be received and displayed automatically.
+
+# Screenshots
+
+![alt text](screenshots/AppCenter.png "AppCenter builds")
+
+![alt text](screenshots/client.png "Result")
